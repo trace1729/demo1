@@ -1,7 +1,7 @@
 import sys
 
 def dog():
-    print('wouuu!')
+    print('woof!')
 
 def default():
     print('hello world.')
